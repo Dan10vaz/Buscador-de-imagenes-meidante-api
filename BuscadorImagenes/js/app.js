@@ -20,7 +20,7 @@ function validarFormulario(e) {
         return; 
     }
 
-    buscarImagenes();
+    buscarImagenes()
 }
 
 function mostrarAlerta(mensaje){
